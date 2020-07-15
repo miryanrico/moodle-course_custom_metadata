@@ -3,6 +3,7 @@
 // This file defines settingpages and externalpages under the "courses" category
 //Prueba mia 15/07
 //prueba3
+//prueba 5
 if ($hassiteconfig
  or has_capability('moodle/backup:backupcourse', $systemcontext)
  or has_capability('moodle/category:manage', $systemcontext)
