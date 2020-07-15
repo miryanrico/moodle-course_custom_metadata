@@ -11,7 +11,7 @@ class coursemetadata_field_form extends moodleform {
 
     var $field;
 
-/// Define the form
+/// Define the form juhuihikjn
     function definition () {
         global $CFG;
 
